@@ -1,0 +1,52 @@
+@media screen and ( max-width:1000px){
+      .abcd   {
+            float: none;
+            width: 100%;
+        }
+}
+
+@media screen and ( max-width:1000px){
+    .aaa {
+        
+          width: 190%;
+          
+      }
+}
+@media screen and ( max-width:1000px){
+    .bbb {
+        
+          width: 130%;
+          margin-left: 0;
+          
+          
+      }
+}
+@media screen and ( max-width:1000px){
+    .ccc {
+        
+          width: 100%;
+          height: 100%;
+          float: none;
+      }
+}
+@media screen and ( max-width:1000px){
+    .ddd {
+        
+          width: 300%;
+          height: 100%;
+          display: block;
+          float: none;
+
+          
+      }
+}
+@media screen and ( max-width:1000px){
+    .eee {
+        
+        width: 130%;
+        height: 100%;
+        float: none; 
+        display: block;
+          
+      }
+}
